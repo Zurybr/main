@@ -1,11 +1,11 @@
 const config = require('./src/config');
 module.exports = {
-  pathPrefix: '/portfolio',
+  pathPrefix: '/main',
   siteMetadata: {
     title: 'Brandom Ledesma',
     description:
       'Brandom Ledesma is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://zurybr.github.io/portfolio/', // No trailing slash allowed!
+    siteUrl: 'https://zurybr.github.io/main/', // No trailing slash allowed!
     image: '/log.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Brandomled',
   },

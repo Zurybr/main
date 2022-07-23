@@ -173,7 +173,7 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="https://github.com/Zurybr/portfolio/raw/main/static/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href="https://github.com/Zurybr/main/raw/main/static/resume.pdf" target="_blank" rel="noopener noreferrer">
       Resume
     </a>
   );
